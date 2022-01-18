@@ -15,10 +15,6 @@
     "node": ">=16",
     "pnpm": ">=6"
   },
-  "browserslist": [
-    "> 1%",
-    "not IE 11"
-  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
