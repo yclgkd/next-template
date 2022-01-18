@@ -18,6 +18,13 @@
 # misc
 .DS_Store
 *.pem
+[Dd]esktop.ini
+Thumbs.db
+$RECYCLE.BIN/
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
 
 # debug
 npm-debug.log*
@@ -36,3 +43,15 @@ pnpm-debug.log*
 
 # typescript
 *.tsbuildinfo
+
+# Editor directories and files
+.project
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# local env files
+*.local

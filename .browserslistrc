@@ -1,0 +1,10 @@
+[production]
+> 1%
+not IE 11 # sorry
+
+[modern]
+last 1 chrome version
+last 1 firefox version
+
+[ssr]
+node 16
