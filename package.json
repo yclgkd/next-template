@@ -1,6 +1,6 @@
 {
   "name": "next-blog",
-  "private": true,
+  "private": false,
   "author": "Brian Yao <chunlai0928@gmail.com>",
   "license": "MIT",
   "repository": {
@@ -32,7 +32,6 @@
   "devDependencies": {
     "@commitlint/cli": "^16.0.2",
     "@commitlint/config-conventional": "^16.0.0",
-    "@primer/stylelint-config": "^12.2.0",
     "@types/node": "17.0.8",
     "@types/react": "17.0.38",
     "@vanilla-extract/babel-plugin": "^1.1.4",
@@ -45,11 +44,7 @@
     "eslint-config-prettier": "^8.3.0",
     "husky": "^7.0.4",
     "lint-staged": "^12.1.7",
-    "postcss": "^8.4.5",
-    "postcss-flexbugs-fixes": "^5.0.2",
-    "postcss-preset-env": "^7.2.3",
     "prettier": "2.5.1",
-    "stylelint": "^14.2.0",
     "typescript": "4.5.4"
   },
   "lint-staged": {
