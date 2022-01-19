@@ -1,3 +1,7 @@
 {
-  "extends": "stylelint-config-standard"
+  "extends": ["@primer/stylelint-config"],
+  "ignoreFiles": ["**/*.js', '**/*.cjs", "**/*.ts"],
+  "rules": {
+    "primer/no-override": false
+  }
 }

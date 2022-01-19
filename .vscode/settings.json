@@ -48,5 +48,5 @@
   "[markdown]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "cSpell.words": []
+  "cSpell.words": ["commitlint", "flexbox", "flexbugs", "pnpm", "preinstall", "stylelint"]
 }
