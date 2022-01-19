@@ -3,6 +3,15 @@
   "private": false,
   "author": "Brian Yao <chunlai0928@gmail.com>",
   "license": "MIT",
+  "keywords": [
+    "next.js",
+    "template",
+    "next.js template",
+    "typescript",
+    "eslint",
+    "prettier",
+    "commitlint"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yclgkd/next-blog.git"
